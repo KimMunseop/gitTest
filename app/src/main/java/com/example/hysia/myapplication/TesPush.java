@@ -5,4 +5,7 @@ package com.example.hysia.myapplication;
  */
 
 public class TesPush {
+    public TesPush() {
+        // Test
+    }
 }
