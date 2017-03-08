@@ -11,6 +11,7 @@ public class Test3wayMerge2 {
 
     @Override
     public String toString() {
-        return "난 master의 toString이야";
+        String retVal = "난 develop의 toString이야";
+        return retVal;
     }
 }
