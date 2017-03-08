@@ -9,4 +9,9 @@ public class Test3wayMerge {
     public Test3wayMerge() {
         // 테스트를 위한 클래스
     }
+
+    @Override
+    public String toString() {
+        return "난 master의 toString이야";
+    }
 }
